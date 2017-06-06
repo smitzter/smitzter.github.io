@@ -1,0 +1,22 @@
+h2 {
+  color:white;
+  background-color: black;
+}
+header h2 {
+  /*select more specific html elements*/
+}
+/*select a class*/
+.black-background {
+/*select an i*/
+  background-color: black
+}
+#special-background {
+    /*only used once. mostly with javascript*/
+  background-color: pink
+}
+p {
+  text: blue;
+}
+*{
+  font-family: sans-serif;
+}
