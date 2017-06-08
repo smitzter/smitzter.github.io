@@ -77,6 +77,7 @@ if (learn.toLowerCase() == 'public health' || 'epidemiology'){
 } else {
   alert('Smitty became interested in Public Health and Epidemiology Data Science with a specific interest in GIS interface.');
 }
+//needs no statement
 console.log(totalPoints);
 
 //sixth question guessing game. four opportunities to guess higher or lower
