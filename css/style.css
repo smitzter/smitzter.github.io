@@ -35,6 +35,7 @@ ol {
   color: white;
   width: 120px;
   align-items: right;
+  /*make list centered on page or something*/
 }
 h1 {
   font-size: bold 14px Georgia, serif;
