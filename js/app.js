@@ -92,7 +92,7 @@ function q4(){
   console.log(totalPoints);
 }
 q4();
-
+//needs no statement
 //question5
 function q5(){
   var learn = prompt('Although a lifelong computer geek/programmer, what was the impituous that finally got Smitty into learning code professionally?');
