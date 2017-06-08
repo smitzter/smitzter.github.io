@@ -1,3 +1,4 @@
+
 h1 {
   color:white;
   background-color: black;
@@ -7,29 +8,51 @@ img {
   width: 100%;
 }
 /*header h2 {*/
-  /*select more specific html elements*/
+/*select more specific html elements*/
 /*}*/
 /*select a class*/
 /*.black-background {*/
 /*select an i*/
-  /*background-color: black*/
+/*background-color: black*/
 /*}*/
 /*#special-background {*/
-    /*only used once. mostly with javascript*/
-  /*background-color: pink*/
+/*only used once. mostly with javascript*/
+/*background-color: pink*/
 /*}*/
 p {
   color: white;
-  background-color: purple;
-  padding-top: 30px;
-padding-right: 30px;
-padding-bottom: 30px;
-padding-left: 30px;
+  background-color: #993399;
+  padding: 30px;
+}
+table {
+  width: 100%;
+  background-color: black;
+}
+ol {
+  background-color: black;
+  align-content: center;
+  align-self: center;
+  color: white;
+  width: 120px;
+  align-items: right;
+}
+h1 {
+  font-size: bold 14px Georgia, serif;
+  text-shadow: 2px 2px #ff0000;
+}
+tr {
+  width: 100%;
 }
 aside {
   font: purple;
-  background-color: white;
+  background-color: #ffffff;
 }
-*{
-  font-family: serif;
+
+body {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/1280px-Messier51_sRGB.jpg);
+}
+footer {
+  background-color: white;
+
+
 }
